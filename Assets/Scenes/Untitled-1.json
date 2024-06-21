@@ -1,0 +1,58 @@
+{
+    "users": {
+      "user_id_1": {
+        "username": "Username1",
+        "levelCompleted": {
+          "level_1": true,
+          "level_2": true,
+          "level_3": false,
+          "level_4": true,
+          "level_5": true,
+          "level_6": true,
+          "level_7": false,
+          "level_8": false,
+          "level_9": false
+        },
+        "communityRank": "Beginner",
+        "averageTimeCompleted": {  //Time to complete in seconds
+        "level_1": 45.2,  
+        "level_2": 58.7,
+        "level_3": null, 
+        "level_4": 32.1,
+        "level_5": 61.2,  
+        "level_6": 55.5,
+        "level_7": null, 
+        "level_8": null,
+        "level_9": null
+        }
+      },
+      "user_id_2": {
+        "username": "Username2",
+        "levelCompleted": { 
+            "level_1": true,
+            "level_2": true,
+            "level_3": true,
+            "level_4": false,
+            "level_5": true,
+            "level_6": true,
+            "level_7": true,
+            "level_8": true,
+            "level_9": false
+        },
+        "communityRank": "Intermediate", 
+        "averageTimeCompleted": {
+            "level_1": 45.2,  
+            "level_2": 58.7,
+            "level_3": 55.1, 
+            "level_4": null,
+            "level_5": 41.1,  
+            "level_6": 49.8,
+            "level_7": 63.3, 
+            "level_8": 66.1,
+            "level_9": null
+         }
+      }
+    }
+  }
+
+  
